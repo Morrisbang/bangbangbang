@@ -1,1 +1,5 @@
-# bangbangbang
+# openCV 
+
+- ROI
+- Threshold
+- Filter
